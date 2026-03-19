@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">detectfake</string>
+    <string name="title_activity_main">detectfake</string>
+    <string name="package_name">com.counterfiet.detectfake</string>
+    <string name="custom_url_scheme">com.counterfiet.detectfake</string>
+</resources>
